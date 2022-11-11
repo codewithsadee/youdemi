@@ -1,0 +1,45 @@
+/*-----------------------------------*\
+  #font.css
+\*-----------------------------------*/
+
+/**
+ * copyright 2022 codewithsadee
+ */
+
+
+
+@font-face {
+  font-family: "Gilroy" sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: local("Gilroy-Regular"),
+      url("./gilroy/Gilroy-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Gilroy" sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: local("Gilroy-Medium"),
+      url("./gilroy/Gilroy-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Gilroy" sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: local("Gilroy-Bold"),
+      url("./gilroy/Gilroy-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Gilroy" sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: local("Gilroy-ExtraBold"),
+      url("./gilroy/Gilroy-ExtraBold.woff2") format("woff2");
+}

@@ -1,0 +1,160 @@
+Youdemi
+
+This is a education html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Youdemi home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Courses
+Blog
+Contacts
+
+Start Free Trial
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Better Learning Future Starts With Youdemi
+
+It is long established fact that reader distracted by the readable content.
+
+Get Started Now
+
+alt = hero banner
+
+
+
+#---------- CATEGORY ----------#
+
+Course Categories
+
+Browse Top Categories
+
+alt = Data Science icon
+Data Science
+68 Courses
+
+aria-label = Data Science Category
+
+UI/UX Design
+
+Modern Physics
+
+Music Production
+
+Data Science
+
+Finances
+
+View All Categories
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+About Youdemi
+
+We Provide The Best Online Education
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.
+
+Business Studies
+86%
+
+Marketing
+67%
+
+Design & Development
+95%
+
+
+
+#---------- COURSE ----------#
+
+Featured Courses
+
+Choose Unlimited Courses
+
+alt = Basic Fundamentals of Interior & Graphics Design
+
+$29.28
+Basic Fundamentals of Interior & Graphics Design
+
+2 Lessons
+4k Students
+
+aria-label = Course Details, Basic Fundamentals of Interior & Graphics Design
+
+alt = Increasing Engagement with Instagram & Facebook
+Free
+
+alt = Introduction to Color Theory & Basic UI/UX
+$72.39
+
+alt = Financial Security Thinking and Principles Theory
+$72.39
+
+alt = Logo Design: From Concept to Presentation
+Free
+
+alt = Professional Ceramic Moulding for Beginners
+$29.82
+
+View All Courses
+
+
+
+#---------- CTA ----------#
+
+Education Is About Creating Leaders For Tomorrow
+
+Register Today
+
+
+
+#---------- FOOTER ----------#
+
+alt = Youdemi home
+
+Lorem ipsum amet, consectetur adipiscing elit. Suspendis varius enim eros elementum tristique. Duis cursus.
+
+alt = facebook
+alt = twitter
+alt = pinterest
+alt = instagram
+
+Links
+
+Home
+About Us
+Pricing
+Courses
+Contact Us
+Blog
+
+Legal
+
+Legal
+Tearms of Use
+Tearm & Condition
+Payment Method
+Privacy Policy
+
+Instagram Post
+
+alt = instagram post
+
+© Copyright 2022 | Youdemi Template | All Rights Reserved by codewithsadee
